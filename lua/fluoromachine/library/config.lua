@@ -70,7 +70,7 @@
 ---@field keywords? vim.api.keyset.highlight
 ---@field types? vim.api.keyset.highlight
 
----@alias fm.config.theme 'fluoromachine' | 'retrowave' | 'delta'
+---@alias fm.config.theme 'fluoromachine' | 'retrowave' | 'delta' | 'lazer'
 ---@class fm.config.default
 ---@field theme? fm.config.theme
 ---@field brightness? number
