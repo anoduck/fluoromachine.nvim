@@ -1,6 +1,7 @@
 ---@type fm.colors
 local M = {
-   fg = '#ff2afc',
+   --[[ fg = '#ff2afc', ]]
+	 fg = '#CC1DEB',
    bg = '#0c0a20',
    red = '#e61f44',
 	 -- phlox = '#cc1deb',
@@ -20,7 +21,8 @@ local M = {
 	  cursor_bg = '#a1fcdf',
 	  currentline = '#421D83',
 	  selection = '#421D83',
-	  separator = '#CC1DEB',
+	  -- separator = '#CC1DEB',
+		separator = '#ff2afc'
    },
    diag = {
 	  -- info = '#87EFFF',
