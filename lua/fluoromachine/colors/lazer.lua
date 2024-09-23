@@ -13,7 +13,7 @@ local M = {
    green = '#39ff14',
    yellow = '#ba45a3',
    orange = '#ff4a11',
-   bgdark = '#241B2F',
+   bgdark = '#0E122D',
    -----------------------
 	 comment = '#454ade',
    editor = {
